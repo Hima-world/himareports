@@ -1,0 +1,346 @@
+body{
+    background-color: #0a0a0a;
+    color:  white;
+}
+
+.hero{
+    min-height:100%;
+    background:linear-gradient(330deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url(/assets/HOF.jpg);
+    background-size:cover;
+}
+
+.hero-body{
+    padding-top: 200px !important;
+    height: 90vh;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.navbar{
+    background-color: #000000 !important;
+}
+
+.navbar-menu .navbar-item:hover{
+    background-color: transparent !important;
+    color: rgb(62, 199, 253) !important;
+}
+
+.navi{
+    font-size: small;
+}
+
+.is-justify{
+    text-align: justify;
+}
+
+.more{
+    color: rgb(224, 224, 224);
+    padding: 7px;
+    border: 1px solid white;
+}
+
+.more:hover{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.content{
+    font-size: 18px;
+}
+
+.events{
+    border: 2px solid white;
+}
+
+.cards{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.more-2{
+    color: black;
+    padding: 7px;
+    border: 2px solid black;
+}
+
+.more-2:hover{
+    color: black;
+    background-color: rgb(201, 201, 201);
+    font-weight: bold;
+    padding: 7px;
+}
+
+.button {
+    background-color: #000000e8;
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+   
+  }
+  
+  .button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0
+     rgba(0, 0, 0, 0.404);
+  }
+  
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0
+     rgba(0,0,0,0.19);
+  
+  }.button3:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0
+     rgba(0,0,0,0.19);
+  }
+  .button4:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0
+     rgba(0,0,0,0.19);
+  }
+
+   .reports{
+    position: absolute;
+  width: 450px;
+  height: 40px;
+  left:550px;
+  top: 550px;
+  }
+
+.is-justify{
+    text-align: justify;
+}
+
+.more{
+    color: rgb(224, 224, 224);
+    padding: 7px;
+    border: 1px solid white;
+}
+
+.more:hover{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.content{
+    font-size: 18px;
+}
+
+.events{
+    border: 2px solid white;
+}
+
+.cards{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.more-2{
+    color: black;
+    padding: 7px;
+    border: 2px solid black;
+}
+
+.more-2:hover{
+    color: black;
+    background-color: rgb(201, 201, 201);
+    font-weight: bold;
+    padding: 7px; 
+}
+.box {
+position: absolute;
+width: 100%;
+margin-top: 5px;
+height: 550px;
+border-left: 70px solid black;
+border-right: 70px solid black;
+opacity: 80%;
+background-color: white ;
+}
+h1 {
+position: absolute;
+left: 610px;
+font-size: 45px;
+top: 20px;
+color: #0a0a0a;
+}
+.TS{
+
+    position: absolute;
+    top: 185px;
+    left: 22%;
+    width: 320px;
+    height: 320px;
+}
+.par {
+
+    position: absolute;
+    text-align: justify;
+    width: 430px;
+    top: 280px;
+    left: 830px;
+    color: #000000;
+    font-size:18px;
+}
+h3 {
+position: absolute;
+top:230px;
+left: 820px;
+color: #000000;
+font-size:30px;
+font-weight: 400;
+}
+
+
+#plo{
+
+    position: absolute;
+    width: 250px;
+height: 250px;
+    top: 87%;
+    left:630px;
+}
+ .hed{
+    position: absolute;
+    top: 945px;
+    left: 470px;
+    color: #0a0a0a;
+    text-align:center;
+    font-size: 45px;
+    width: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+ }
+ .loks{
+
+    position: absolute;
+    top: 1050px;
+    left: 370px;
+    font-size: 35px;
+    width: 900px;
+    color: #0a0a0a;
+    font-weight: 800;
+    font-family:'Times New Roman', Times, serif;
+ }
+
+#cit{
+position: absolute;
+top: 1130px;
+left: 570px;
+    box-sizing: content-box;  
+    width: 380px;
+    height: 130px;
+    padding: 5px;  
+    border-radius: 15px;
+    border-left: 10px solid blue;
+    border-right: 10px solid black;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid black;
+
+}
+.cpar {
+position: absolute;
+top: 10px;
+left: 40px;
+font-size: 62px;
+width: 500px;
+color: #0a0a0a;
+font-weight: 800;
+font-family:'Times New Roman';
+line-height: 60px;
+}
+
+.para{
+
+    position: absolute;
+    top: 1320px;
+    left: 140px;
+    width: 85%;
+    font-style: italic;
+    color: #0a0a0a;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: cursive;
+}
+.cent {
+    position: absolute;
+    top: 1400px;
+    left: 400px;
+    width: 50%;
+    color: #0a0a0a;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}
+
+.parcent {
+
+    position: absolute;
+    top: 1460px;  
+    left: 320px;
+    text-align: justify;
+    width: 55%;
+    color: black;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.kil{
+position: absolute;
+top: 190px;
+left: 140px;
+color: #000000;
+font-weight: bold;
+width: 60%;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.conbox {
+position: absolute;
+top: 200px;
+left: 360px;
+width: 40%;
+color: #000000;
+}
+
+#secs {
+position: absolute;
+width: 100%;
+margin-top:80px;
+height: 430px;
+border-left: 10px solid black;
+border-right: 10px solid black;
+opacity: 40%;
+background-color: white ;
+}
+
+.keri{
+    position: absolute;
+    top: 2090px;
+    left: 670px;
+    color: black(224, 224, 224);
+    padding: 3px;
+    border: 1px solid black;
+
+}
+.ty{
+    position: absolute;
+    top: 1610px;
+    color: #000000;
+    font-family: garamond;
+    font-size: 30px;
+    left: 565px;
+}
